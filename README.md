@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="100px" src="assets/empresas_logo.png" alt="Logo da DIO e da Squadio" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=dio,squadio" alt="Logo da DIO e da Squadio" />
   <h3 align="center">Python Data Analytics - DIO e Squadio</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
 Este bootcamp oferece uma formação abrangente em Análise de Dados utilizando Python, Power BI, Serviços de Banco de Dados (estruturados e não estruturados), álem de apresentar conceitos práticos para a aplicação destes conceitos no Machine Learning. Ele é composto por diversos módulos que abordam desde os fundamentos da linguagem Python, análise de dados e criação de gráficos com Power BI, consumo de datasets, até Machine Learning. Meu objetivo ao concluir este bootcamp é aprimorar minhas habilidades em análise de dados, capacitando-me a desenvolver soluções inteligentes, aproveitando a capacidade das ferramentas exploradas na prática.
+<div align="center">
+  <h3> 💻Tecnologias Aprendidas</h3>
+  <img src="https://iconsverse.vercel.app/icons?i=python,postgres,mongo,powerbi" alt="Tecnologias Aprendidas">
+</div>
 
 # 📚Conteúdo Abordado
   * **Princípios de Desenvolvimento de Software Colaborativo:** Introduz práticas de desenvolvimento colaborativo, focando em como equipes podem trabalhar juntas de forma eficiente em projetos de software, utilizando ferramentas e metodologias ágeis.
